@@ -20,8 +20,8 @@
                 "🌍 LANGUAGE 🌍" : "~lang",
                 "📚 HELP 📚" : "-help|1",
                 "🌟 SOURCE CODE 🌟" : "https://github.com/nabilanavab",
-                "🔊 CHANNEL 🔊" : "https://telegram.dog/ilovepdf_bot",
-                "🤠 ADMIN 🤠" : "https://github.com/nabilanavab",
+                "🔊 CHANNEL 🔊" : "https://telegram.dog/botio_devs",
+                "🤠 ADMIN 🤠" : "https://t.me/Appuz_007",
                 "⚙️ SETTINGS ⚙️" : "!set"
             }
         },
@@ -69,6 +69,8 @@
         "askPswdButon" : { "😎 i know the password 😎" : ":get %s " },
         "messageDeleted" : "Unfortunately, something went wrong. 🤷‍♂️🚫\n\n"
     },
+    "bots" : {
+        "message" : "Our Bots"
     "lang" : {
         "select" : "Now, select a language depending on your choice: 🌐🗣️",
         "back" : { "🔙 BacK" : "-help|0" },
@@ -109,4 +111,4 @@
         "addedCap" : "Added new Custom Caption : ", "deletedCap" : "Deleted Current Password\n\nNow No caption will be added", "viewCap" : "Your Current Caption is : ",
         "addedBut" : "Added new Custom Button\n\nuse /viewButton", "deleteBut" : "Deleted Your Custom Button\n\nNow No Buttons will be displayed", "viewBut" : "Check The Below Button"
     }
-}
+    }
