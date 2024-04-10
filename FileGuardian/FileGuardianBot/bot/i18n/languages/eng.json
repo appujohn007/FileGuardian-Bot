@@ -17,11 +17,11 @@
         "0" : {
             "message" : "👋 <i>Welcome to the</i> <b>File Guardian Bot!</b> 📁\n\n<i>With FileShare Bot, you can easily share and manage files, documents, and more. Whether you want to send a document, a photo, or any other file, our bot has got you covered. You can also add password protection for extra security.</i>\n\n<i>Get started, by simply sending a file you want to share</i>\n\n<i>powered by:</i> @ilovepdf_bot ❤️",
             "button" : {
-                "🌍 LANGUAGE 🌍" : "~lang",
+                "🤖 Our Bots 🤖" : "https://t.me/botio_devs/5",
                 "📚 HELP 📚" : "-help|1",
-                "🌟 SOURCE CODE 🌟" : "https://github.com/nabilanavab",
-                "🔊 CHANNEL 🔊" : "https://telegram.dog/ilovepdf_bot",
-                "🤠 ADMIN 🤠" : "https://github.com/nabilanavab",
+                "🌟 Admin 🌟" : "https://t.me/Appuz_007",
+                "🔊 CHANNEL 🔊" : "https://telegram.dog/botio_devs",
+                "🤠 ADMIN 🤠" : "https://t.me/Appuz_007",
                 "⚙️ SETTINGS ⚙️" : "!set"
             }
         },
